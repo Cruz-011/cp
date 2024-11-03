@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "marca": "Marvel",
+      "nome": "Camiseta do Homem de Ferro",
+      "descricao": "Camiseta estampada com o símbolo do Homem de Ferro.",
+      "preco": 49.90,
+      "imagem": "/images/camiseta-do-homem-de-ferro.png.png"
+    },
+    {
+      "id": 2,
+      "marca": "Marvel",
+      "nome": "Action Figure do Capitão América",
+      "descricao": "Action Figure detalhada do Capitão América com escudo.",
+      "preco": 119.90,
+      "imagem": "/images/capitao.png"
+    },
+    {
+      "id": 3,
+      "marca": "Marvel",
+      "nome": "Boné dos Vingadores",
+      "descricao": "Boné preto com logo dos Vingadores bordado.",
+      "preco": 39.90,
+      "imagem": "/images/bone.jfif"
+    },
+    {
+      "id": 4,
+      "marca": "DC Comics",
+      "nome": "Camiseta do Batman",
+      "descricao": "Camiseta preta com o símbolo clássico do Batman.",
+      "preco": 54.90,
+      "imagem": "/images/batman.png"
+    },
+    {
+      "id": 5,
+      "marca": "DC Comics",
+      "nome": "Caneca do Superman",
+      "descricao": "Caneca com a imagem do Superman em ação.",
+      "preco": 29.90,
+      "imagem": "/images/caneca.jfif"
+    },
+    {
+      "id": 6,
+      "marca": "DC Comics",
+      "nome": "Mochila da Mulher Maravilha",
+      "descricao": "Mochila estilizada com o emblema da Mulher Maravilha.",
+      "preco": 89.90,
+      "imagem": "/images/mochila.jfif"
+    },
+    {
+      "id": 7,
+      "marca": "Animes",
+      "nome": "Poster de Naruto",
+      "descricao": "Poster do Naruto com os personagens principais da série.",
+      "preco": 19.90,
+      "imagem": "/images/naruto.jfif"
+    },
+    {
+      "id": 8,
+      "marca": "Animes",
+      "nome": "Funko Pop do Goku",
+      "descricao": "Boneco Funko Pop do Goku em pose de combate.",
+      "preco": 89.90,
+      "imagem": "/images/goku.jfif"
+    },
+    {
+      "id": 9,
+      "marca": "Animes",
+      "nome": "Camiseta de One Piece",
+      "descricao": "Camiseta estampada com o logo dos Chapéus de Palha.",
+      "preco": 44.90,
+      "imagem": "/images/one.jfif"
+    },
+    {
+      "id": 10,
+      "marca": "Animes",
+      "nome": "Chaveiro de Attack on Titan",
+      "descricao": "Chaveiro com o símbolo da Tropa de Exploração.",
+      "preco": 14.90,
+      "imagem": "/images/titan.png"
+    }
+  ]
+  
